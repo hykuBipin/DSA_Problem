@@ -5,7 +5,9 @@ class Solution {
         for(int i=str.length-1; i >0 ; i--)
         {
             out += str[i] + " ";
+            System.out.println(out +" " + str[i] + " ");
         }
         return out + str[0];
     }
 }
+
