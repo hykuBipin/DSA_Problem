@@ -3,7 +3,7 @@ class Solution {
     int pair=0;
         int temp=0;
         int row=0;
-        while(temp<=grid.length-1)
+        while(temp<grid.length)
         {
             HashMap<Integer,Integer> map=new HashMap<>();
             for(int j=0;j<grid.length;j++)
@@ -21,7 +21,8 @@ class Solution {
                         break;
                     }
                     else
-                        curr=1;
+                    {                                                       curr=1;
+                    }
                 }
                 pair+=curr;
             }
