@@ -1,6 +1,5 @@
 class Solution {
     public String convertToTitle(int columnNumber) {
-        // int N=columnNumber.length();
         StringBuilder res =new StringBuilder();
         while(columnNumber>0)
         {
