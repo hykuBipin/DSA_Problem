@@ -4,12 +4,12 @@ class Solution {
         while(start <= end)
         {
             int mid=(start + end)/2;
-            if(!possible(m,n,k,mid))
-            {
-                start=mid+1;
-            }else
+            if(possible(m,n,k,mid))
             {
                 end=mid-1;
+            }else
+            {
+                start=mid+1;
             }
         }
         return start;
