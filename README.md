@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
