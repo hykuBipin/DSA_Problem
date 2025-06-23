@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hykuBipin/DSA_Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/hykuBipin/DSA_Problem/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
