@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
@@ -67,4 +69,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
