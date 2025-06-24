@@ -13,10 +13,7 @@ class MyQueue {
     }
     
     public int pop() {
-        if(stack2.isEmpty())
-        {
              peek();
-        }
         return stack2.pop();
     }
     
