@@ -8,6 +8,10 @@
  * }
  */
  //Celonis question
+//if p and q < r → go left
+//if p and q > r → go right
+//if p < r < q or p > r > q → r is lowest common ancestor
+//r is root(parent)
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
