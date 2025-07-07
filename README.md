@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
@@ -42,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 ## Divide and Conquer
