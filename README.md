@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -24,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -40,6 +42,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hykuBipin/DSA_Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +99,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,4 +116,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hykuBipin/DSA_Problem/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
