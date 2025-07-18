@@ -1,30 +1,33 @@
 class Solution {
     public void sortColors(int[] nums) {
+        //Dutch National flag algorithm - 3 pointer
         int n=nums.length;
-        if( n < 2) return;
-        int left=0,right=n-1,current=0;
-        while(current <= right)
+        if(nums==null || n==0)
         {
-            if(nums[current]==0)
+          throw new IllegalArgumentException("Array should not be null");
+        }
+
+        int low=0,mid=0,high=n-1;
+        int cout0=0,cout1=0,cout2=0;
+        while(mid<=high)
+        {
+            if(nums[mid]==0)
             {
-                swap(nums,left,current);
-                left++;
-                current++;
-            }else if(nums[current]==1)
+               int temp=nums[low];
+               nums[low]=nums[mid];
+               nums[mid]=temp;
+               low++;
+               mid++;
+            }else if(nums[mid]==1)
             {
-                current++;
-            }else
+                mid++;
+            }else if(nums[mid]==2)
             {
-                swap(nums,right,current);
-                right--;
+                int temp=nums[high];
+                nums[high]=nums[mid];
+                nums[mid]=temp;
+                high--;
             }
         }
-    }
-
-    public static void swap(int[] nums, int left, int right)
-    {
-        int temp = nums[right];
-        nums[right]=nums[left];
-        nums[left] =temp;
     }
 }
