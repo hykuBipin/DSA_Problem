@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 | ------- |
 | [0136-single-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
