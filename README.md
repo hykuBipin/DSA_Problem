@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hykuBipin/DSA_Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -26,6 +27,7 @@
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hykuBipin/DSA_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hykuBipin/DSA_Problem/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
