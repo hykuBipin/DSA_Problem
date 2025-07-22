@@ -24,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/hykuBipin/DSA_Problem/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hykuBipin/DSA_Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
@@ -152,5 +154,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
