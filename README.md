@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
@@ -25,6 +26,7 @@
 | [0031-next-permutation](https://github.com/hykuBipin/DSA_Problem/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hykuBipin/DSA_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
