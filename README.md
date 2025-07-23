@@ -26,6 +26,7 @@
 | [0031-next-permutation](https://github.com/hykuBipin/DSA_Problem/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hykuBipin/DSA_Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
@@ -142,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hykuBipin/DSA_Problem/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -155,5 +157,6 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hykuBipin/DSA_Problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
