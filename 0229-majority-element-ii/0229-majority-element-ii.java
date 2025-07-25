@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        //extended moore's algorithm
+        //extended moore's algorithm TC:O(N), SC:O(1)
         int n=nums.length;
         if(nums==null || n==0)
         {
@@ -46,3 +46,43 @@ class Solution {
         return list;
     }
 }
+
+// //Better Approach TC:O(NLOGN), SC:O(N)
+// import java.util.*;
+
+// public class Solution{
+//     public static List<Integer> majorityElement(int []v) {
+//       int n=v.length;
+//       HashMap<Integer,Integer> map=new HashMap<>();
+//       ArrayList<Integer> list=new ArrayList<>();
+      
+//       for(int i=0;i<n;i++)
+//       {
+//           map.put(v[i],map.getOrDefault(v[i],0)+1);
+//       }
+      
+//       int mini = (int) (n/3)+1;
+      
+//       for(Map.Entry<Integer,Integer> entry : map.entrySet())
+//       {
+//           if(entry.getValue() >= mini)
+//           {
+//               list.add(entry.getKey());
+//           }
+//       }
+//       Collections.sort(list);
+      
+//       return list;
+//     }
+
+//     public static void main(String args[]) {
+//         int[] arr = {11, 33, 33, 11, 33, 11};
+//         List<Integer> ans = majorityElement(arr);
+//         System.out.print("The majority elements are: ");
+//         for (int i = 0; i < ans.size(); i++) {
+//             System.out.print(ans.get(i) + " ");
+//         }
+//         System.out.println();
+//     }
+// }
+
