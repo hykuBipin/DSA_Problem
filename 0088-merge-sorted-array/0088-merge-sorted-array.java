@@ -5,24 +5,46 @@ class Solution {
             throw new IllegalArgumentException("Array should not be null or empty");
         }
 
-        int i=m-1;
-        int j=n-1;
-        int k=m+n-1;
+     int total=m+n;
+     int gap= (total+1)/2;
 
-        while(i >= 0  && j >= 0)
+     while(gap>0)
+     {
+        int i = 0, j=gap;
+
+        while(j<total) 
         {
-            if(nums1[i] > nums2[j])
+            int a = (i < m) ? nums1[i] : nums2[i-m];
+            int b=  (j<m) ? nums1[j] : nums2[j-m];
+
+            if(a>b)
             {
-                nums1[k--] = nums1[i--];
-            }else
-            {
-                nums1[k--]=nums2[j--];
+                if(i<m && j<m)
+                {
+                    int temp=nums1[i];
+                    nums1[i]=nums1[j];
+                    nums1[j]=temp;
+                }else if(i <m && j>= m)
+                {
+                    int temp=nums1[i];
+                    nums1[i]=nums2[j-m];
+                    nums2[j-m]=temp;
+                }else
+                {
+                    int temp=nums2[i-m];
+                    nums2[i-m]=nums2[j-m];
+                    nums2[j-m]=temp;
+                }
             }
+            i++;j++;
         }
 
-        while(j>=0)
-        {
-            nums1[k--]=nums2[j--];
-        }
+        gap = (gap==1) ? 0 : (gap+1)/2;
+     }
+      
+      for(int i=0;i<n;i++)
+      {
+         nums1[m+i]=nums2[i];
+      }
     }
 }
