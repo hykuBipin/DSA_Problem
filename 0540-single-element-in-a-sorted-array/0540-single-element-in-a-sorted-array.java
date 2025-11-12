@@ -5,12 +5,11 @@ class Solution {
         {
            throw new IllegalArgumentException("Array is null or empty"); 
         }
-        int temp=nums[0];
-        for(int i=1;i<n;i++)
+        int result=0;
+        for(int i=0;i<n;i++)
         {
-           int result = nums[i] ^ temp;
-           temp=result;
+           result = nums[i] ^ result;
         }
-        return temp;
+        return result;
     }
 }
