@@ -50,6 +50,7 @@
 | [0229-majority-element-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hykuBipin/DSA_Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -147,6 +148,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
