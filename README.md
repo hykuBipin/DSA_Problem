@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/hykuBipin/DSA_Problem/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0050-powx-n](https://github.com/hykuBipin/DSA_Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/hykuBipin/DSA_Problem/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Two Pointers
 |  |
 | ------- |
