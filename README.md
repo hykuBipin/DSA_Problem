@@ -58,6 +58,7 @@
 | [0792-binary-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hykuBipin/DSA_Problem/tree/master/0907-koko-eating-bananas) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/hykuBipin/DSA_Problem/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
@@ -109,6 +110,7 @@
 | [0229-majority-element-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/hykuBipin/DSA_Problem/tree/master/0605-can-place-flowers) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hykuBipin/DSA_Problem/tree/master/0907-koko-eating-bananas) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Binary Tree
 |  |
 | ------- |
