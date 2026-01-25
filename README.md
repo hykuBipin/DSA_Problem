@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hykuBipin/DSA_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hykuBipin/DSA_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hykuBipin/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -217,5 +219,6 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hykuBipin/DSA_Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/hykuBipin/DSA_Problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hykuBipin/DSA_Problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
