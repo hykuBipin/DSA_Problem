@@ -99,6 +99,7 @@
 | [0141-linked-list-cycle](https://github.com/hykuBipin/DSA_Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/hykuBipin/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/hykuBipin/DSA_Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hykuBipin/DSA_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hykuBipin/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/hykuBipin/DSA_Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +228,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/hykuBipin/DSA_Problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hykuBipin/DSA_Problem/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hykuBipin/DSA_Problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
