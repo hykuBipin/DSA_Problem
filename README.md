@@ -14,11 +14,13 @@
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hykuBipin/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/hykuBipin/DSA_Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hykuBipin/DSA_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hykuBipin/DSA_Problem/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Backtracking
 |  |
@@ -124,6 +126,7 @@
 | [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hykuBipin/DSA_Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +135,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hykuBipin/DSA_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -141,6 +145,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hykuBipin/DSA_Problem/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -151,6 +156,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/hykuBipin/DSA_Problem/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/hykuBipin/DSA_Problem/tree/master/0605-can-place-flowers) |
+| [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hykuBipin/DSA_Problem/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Recursion
 |  |
