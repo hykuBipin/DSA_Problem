@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/hykuBipin/DSA_Problem/tree/master/0046-permutations) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hykuBipin/DSA_Problem/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/hykuBipin/DSA_Problem/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hykuBipin/DSA_Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hykuBipin/DSA_Problem/tree/master/0054-spiral-matrix) |
