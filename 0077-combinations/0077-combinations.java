@@ -20,9 +20,6 @@ class Solution {
         for(int i=start;i<=n;i++)
         {
 
-            // //avoid duplicates
-            // if(i>0 && i==i-1) continue;
-
             result.add(i);
 
             solve(n,k,i+1,result);
