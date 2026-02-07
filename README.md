@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hykuBipin/DSA_Problem/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hykuBipin/DSA_Problem/tree/master/0128-longest-consecutive-sequence) |
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hykuBipin/DSA_Problem/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/hykuBipin/DSA_Problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hykuBipin/DSA_Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
