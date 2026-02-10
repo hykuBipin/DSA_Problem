@@ -175,12 +175,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Stack
@@ -264,4 +267,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
