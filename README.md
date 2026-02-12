@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
 | [0767-reorganize-string](https://github.com/hykuBipin/DSA_Problem/tree/master/0767-reorganize-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hykuBipin/DSA_Problem/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Backtracking
@@ -30,6 +31,7 @@
 | [0046-permutations](https://github.com/hykuBipin/DSA_Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/hykuBipin/DSA_Problem/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
@@ -52,6 +54,7 @@
 | [0066-plus-one](https://github.com/hykuBipin/DSA_Problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hykuBipin/DSA_Problem/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hykuBipin/DSA_Problem/tree/master/0118-pascals-triangle) |
@@ -185,6 +188,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0110-balanced-binary-tree) |
@@ -257,6 +261,7 @@
 | [0048-rotate-image](https://github.com/hykuBipin/DSA_Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hykuBipin/DSA_Problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hykuBipin/DSA_Problem/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
