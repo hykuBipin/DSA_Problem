@@ -177,6 +177,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0110-balanced-binary-tree) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hykuBipin/DSA_Problem/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0110-balanced-binary-tree) |
@@ -204,6 +206,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hykuBipin/DSA_Problem/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0098-validate-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hykuBipin/DSA_Problem/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -216,6 +219,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0110-balanced-binary-tree) |
