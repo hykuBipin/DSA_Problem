@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/hykuBipin/DSA_Problem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hykuBipin/DSA_Problem/tree/master/0268-missing-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hykuBipin/DSA_Problem/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2929-distribute-candies-among-children-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/2929-distribute-candies-among-children-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,4 +293,12 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hykuBipin/DSA_Problem/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hykuBipin/DSA_Problem/tree/master/0226-invert-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/2929-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/hykuBipin/DSA_Problem/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
