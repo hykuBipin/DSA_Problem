@@ -14,7 +14,7 @@ class Solution {
         
     }
     
-    public static void dfssolve(ArrayList<ArrayList<Integer>> adj, boolean[] visited, int index, ArrayList<Integer> res)
+    public static boolean dfssolve(ArrayList<ArrayList<Integer>> adj, boolean[] visited, int index, ArrayList<Integer> res)
     {
         visited[index]=true;
         res.add(index);
@@ -26,5 +26,6 @@ class Solution {
                 dfssolve(adj,visited,i,res);
             }   
         }
+        return false;
     }
 }
