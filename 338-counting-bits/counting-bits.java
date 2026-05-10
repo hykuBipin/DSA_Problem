@@ -1,6 +1,5 @@
 class Solution {
     public int[] countBits(int n) {
-        //Brian Kernighan's Algorithm
        if(n<0) return new int[]{};
        int[] result = new int[n+1];
        result[0]=0;
@@ -12,3 +11,6 @@ class Solution {
        return result;
     }
 }
+
+// Time Complexity: O(n). Each number from 1 to n is processed once, and the bitwise operation is O(1).
+// Space Complexity: O(n) for the result array.
