@@ -1,28 +1,25 @@
 class Solution {
-    public int maxArea(int[] heights) {
-        if(heights==null) return -1;
-        int n=heights.length;
-        int start=0,end=n-1;
-        int result=0;
-        int maxresult=0;
-
-        while(start<end)
-        {
-            int height = Math.min(heights[start],heights[end]);
-            int width = end-start;
-
-            result = height * width;
-            maxresult = Math.max(maxresult,result);
-            
-            // move smaller height pointer
-            if(heights[start] < heights[end])
-            {
-                start++;
-            }else
-            {
-                end--;
-            }
-        }
-        return maxresult;
+    public int maxArea(int[] height) {
+       if(height==null || height.length <= 0) return -1;
+       int n=height.length;
+       int left=0,right=n-1;
+       int currentArea=0,maxArea=0;
+       while(left < right)
+       {
+          int minHeight = Math.min(height[left],height[right]);
+          int width = right - left;
+          currentArea = minHeight * width;
+          if(height[left] < height[right])
+          {
+             left++;
+          }else
+          {
+             right--;
+          }
+          maxArea = Math.max(maxArea,currentArea);
+       }
+        return maxArea;
     }
 }
+
+// The time complexity is O(n), where n is the number of elements in the array, which is optimal for this problem. The space complexity is O(1), since only a fixed number of variables are used regardless of input size.
